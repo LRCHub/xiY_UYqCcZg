@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "恋愛サーキュレーション (Yunomi “Kawaii EDM” Remix)",
+  "base_artist": "Kana Hanazawa",
+  "createdAt": "2026-03-27T02:45:52.140955Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "千石撫子(花澤香菜)",
+      "has_synced": true,
+      "path": "select/01_恋愛サーキュレーション_千石撫子(花澤香菜).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "古川未鈴",
+      "has_synced": true,
+      "path": "select/02_恋愛サーキュレーション_古川未鈴.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "MONOGATARI Series",
+      "has_synced": false,
+      "path": "select/03_恋愛サーキュレーション_MONOGATARI_Series.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "花澤香菜",
+      "has_synced": true,
+      "path": "select/04_恋愛サーキュレーション_花澤香菜.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "千石撫子(花澤香菜)",
+      "has_synced": true,
+      "path": "select/05_恋愛サーキュレーション_千石撫子(花澤香菜).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "花澤香菜",
+      "has_synced": true,
+      "path": "select/06_恋愛サーキュレーション_花澤香菜.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "物語シリーズ",
+      "has_synced": true,
+      "path": "select/07_恋愛サーキュレーション_物語シリーズ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "物語シリーズ",
+      "has_synced": true,
+      "path": "select/08_恋愛サーキュレーション_物語シリーズ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "千石撫子",
+      "has_synced": true,
+      "path": "select/09_恋愛サーキュレーション_千石撫子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "〈物語〉シリーズ",
+      "has_synced": true,
+      "path": "select/10_恋愛サーキュレーション_〈物語〉シリーズ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "Tsuyu",
+      "has_synced": false,
+      "path": "select/11_恋愛サーキュレーション_Tsuyu.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "千石撫子 (花澤香菜)",
+      "has_synced": true,
+      "path": "select/12_恋愛サーキュレーション_千石撫子_(花澤香菜).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "千石撫子 (花澤香菜)",
+      "has_synced": true,
+      "path": "select/13_恋愛サーキュレーション_千石撫子_(花澤香菜).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "MONOGATARI Series",
+      "has_synced": true,
+      "path": "select/14_恋愛サーキュレーション_MONOGATARI_Series.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "千石撫子",
+      "has_synced": true,
+      "path": "select/15_恋愛サーキュレーション_千石撫子.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "恋愛サーキュレーション",
+      "artist": "千石撫子",
+      "has_synced": true,
+      "path": "select/16_恋愛サーキュレーション_千石撫子.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Renai Circulation (恋愛サーキュレーション)",
+      "artist": "Hanazawa Kana",
+      "has_synced": true,
+      "path": "select/17_Renai_Circulation_(恋愛サーキュレーション)_Hanazawa_Kana.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "renai circulation pluggnb (恋愛サーキュレーション)",
+      "artist": "cadenkala",
+      "has_synced": true,
+      "path": "select/18_renai_circulation_pluggnb_(恋愛サーキュレーション)_cadenkala.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋愛サーキュレーション",
+      "artist": "花澤香菜",
+      "has_synced": false,
+      "path": "select/pl_01_恋愛サーキュレーション_花澤香菜.txt"
+    }
+  ]
+}
